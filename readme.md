@@ -40,7 +40,7 @@ Follow these steps to set up CODEFY locally:
 5. **Open your browser and visit http://localhost:3000**
 
 ### Usage
-- **Create folders for organizing your code by topics or projects.
-- **Write, edit, and debug code in the Monaco Editor.
-- **Run code snippets using the integrated console.
-- **Import or export files to collaborate with others or back up your work.
+- Create folders for organizing your code by topics or projects.
+- Write, edit, and debug code in the Monaco Editor.
+- Run code snippets using the integrated console.
+- Import or export files to collaborate with others or back up your work.
