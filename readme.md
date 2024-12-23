@@ -33,13 +33,13 @@ Follow these steps to set up CODEFY locally:
    ```bash
    npm install
    ```
-4.**Start the development server**:
+4. **Start the development server**:
    ```bash
    npm start
    ```
-5.**Open your browser and visit http://localhost:3000**
+5. **Open your browser and visit http://localhost:3000**
 
-###Usage
+### Usage
 - **Create folders for organizing your code by topics or projects.
 - **Write, edit, and debug code in the Monaco Editor.
 - **Run code snippets using the integrated console.
